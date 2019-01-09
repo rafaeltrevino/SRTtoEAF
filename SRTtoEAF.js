@@ -4,6 +4,30 @@ var axios = require("axios");
 var moment = require('moment');
 var fs = require("fs");
 
+const eaf = {
+    // Name the properties that will be needed to write the EAF file
+    // Write functions that update the properties based on user input from the prompt
+};
+
+
+// Receives input for source file
+// Include validation for this step: appropriate file? appropriate path?
+
+// Reads source file
+
+// Variables are created to hold the necessary information (time, file name, etc.)
+
+// Create a function to write lines of data based on input
+
+// Create a function to create the EAF file
+
+// Write the target file to the appropriate directory
+
+// Confirm to the user that the process is complete
+
+
+
+
 // This object of methods logs items to the console (if applicable) and log.txt file
 const logger = {
     logHeader: function(database, searchTerm) {
