@@ -1,2 +1,2 @@
-# SRTtoEAF
-Converts SRT files into EAF files.
+# SRT to EAF Converter
+
